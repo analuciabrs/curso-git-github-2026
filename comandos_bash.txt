@@ -1,0 +1,6 @@
+ls lista arquivos
+cd move entre diretorios
+pwd mostra diretorio de trabalho
+cat le o arquivo e imprime no terminal
+rm -rf apaga o diretorio e tudo nele
+git init . mostra que a pasta e git
